@@ -8,7 +8,7 @@ For generating the figures, one can run the codes named after the figure identit
 
 A separate folder called 'Fig1' includes the data, images and a code required for generating figure 1 (Fig 1.m).
 
-The folder 'figs' includes the figures 2-5 and S1-7 in a 'fig' and 'emf' formats and figure 1 in a 'fig' and 'TIFF' format.
+The folder 'figs' includes figures 2-5 and S1-7 in a 'fig' and 'emf' formats and figure 1 in a 'fig' and 'TIFF' format.
 
 
 
