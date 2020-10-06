@@ -6,9 +6,13 @@ This struct array is divided into fields of regions and subregions of the Audito
 
 For generating the figures, one can run the codes named after the figure identity (e.g. Fig2.m, S2.m, etc.).
 
-A separate folder called 'Fig1' includes the data, images and a code required for generating figure 1 (Fig 1.m).
+A separate branch called 'Fig1' includes the code, data and images required for generating figure 1 (Fig 1.m).
+Note that the matrices for generating the images of brain slices are too large to be uploaded to GitHub and can be downloaded from this google drive folder:
+https://drive.google.com/drive/folders/1tUpGBEhVgwul1sjMv9XKn8UzcP12uv-T?usp=sharing
 
-The folder 'figs' includes figures 2-5 and S1-7 in a 'fig' and 'emf' formats and figure 1 in a 'fig' and 'TIFF' format.
+
+
+
 
 
 
